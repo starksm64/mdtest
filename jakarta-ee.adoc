@@ -1,0 +1,10 @@
+
+
+[[GCRLO]][[understanding-jakarta-platform-enterprise-edition]]
+
+2 Understanding Jakarta Platform, Enterprise Edition
+----------------------------------------------------
+
+This chapter describes the basic concepts behind enterprise application
+development and examines how an application server is the sum of its
+Jakarta EE containers.

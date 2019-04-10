@@ -1,0 +1,14 @@
+
+
+[[GCQYJ]][[goals-of-this-tutorial]]
+
+Goals of This Tutorial
+----------------------
+
+At the completion of this tutorial, you will:
+
+* Understand the basics of tiered applications
+* Understand the basics of the Jakarta EE platform
+* Have created a multitiered Jakarta EE application
+* Have deployed and run your application on a Jakarta EE server
+* Know where to go next for more information on the Jakarta EE platform

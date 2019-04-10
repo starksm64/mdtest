@@ -1,0 +1,10 @@
+
+
+[[GCRLL]][[next-steps]]
+
+5 Next Steps
+------------
+
+This chapter provides additional resources for learning more about
+enterprise application architecture, the Jakarta EE platform, and GlassFish
+Server.
