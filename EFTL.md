@@ -28,7 +28,7 @@ compatibility) is made based on the TCK, the testing party must:
     b.  make TCK test results showing full and complete satisfaction of
     all requirements of the TCK publicly available on the testing
     party's website and send a link to such test results to Eclipse at
-    mailto:tck@eclipse.org[tck@eclipse.org;] and
+    [tck@eclipse.org](mailto:tck@eclipse.org); and
 
     c.  comply with any requirements stated in the Specification with
     regard to subsetting, supersetting, modifying or extending the
